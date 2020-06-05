@@ -1,0 +1,5 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/flutter_tienda_real/.dart_tool/
+/flutter_tienda_real/build/
